@@ -1,0 +1,452 @@
+﻿USE [QLVT]
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_CHECK_SoLuongPhieuNhap]    Script Date: 12/08/2021 5:13:11 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_CHECK_SoLuongPhieuNhap] @MaPN NVARCHAR(15), @MaVT NVARCHAR(15), @Soluong INT
+AS
+BEGIN
+	DECLARE @MaSoDDH NVARCHAR(15)
+	DECLARE @SLCTDDH INT
+	SET @MaSoDDH = (SELECT pn.MasoDDH FROM dbo.PhieuNhap pn WHERE pn.MAPN = @MaPN)
+	SET @SLCTDDH = (SELECT dbo.CTDDH.SOLUONG FROM dbo.CTDDH WHERE MasoDDH = @MaSoDDH AND MAVT = @MaVT)
+	IF(@Soluong>@SLCTDDH)
+		RETURN 1; --Không được nhập
+	IF NOT EXISTS(SELECT * FROM dbo.CTDDH WHERE dbo.CTDDH.MasoDDH = @MaSoDDH)
+		RETURN 2; --Không có CTDDH để check số lượng
+	RETURN 0; -- Được nhập
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[SP_CHECK_SoLuongPhieuXuat]    Script Date: 12/08/2021 5:20:14 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROC [dbo].[SP_CHECK_SoLuongPhieuXuat] @MaVT NVARCHAR(15), @Soluong INT
+AS
+BEGIN
+	DECLARE @SLTon INT
+	SET @SLTon = (SELECT dbo.Vattu.SOLUONGTON FROM dbo.Vattu WHERE MAVT = @MaVT)
+	IF(@Soluong>@SLTon)
+		RETURN 1; --Không được nhập
+	RETURN 0; -- Được nhập
+END
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_CHECKID]    Script Date: 12/08/2021 5:20:41 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_CHECKID]
+@Code NVARCHAR(15), @Type NVARCHAR(15)
+AS
+BEGIN
+	-- Kho
+	IF(@Type = 'MAKHO')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.Kho WHERE dbo.Kho.MAKHO = @Code)
+			RETURN 1; -- Mã kho tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK2.QLVT.dbo.Kho AS KHO WHERE KHO.MAKHO = @Code) -- qua sever 3 tra cứu
+			RETURN 1; -- Mã Kho tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.Kho AS KHOG WHERE KHOG.MAKHO = @Code) -- trường hợp sever 3 đóng, về site chủ
+			RETURN 1; -- Mã Kho tồn tại.
+	END
+	IF(@Type = 'TENKHO')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.Kho WHERE dbo.Kho.TENKHO = @Code)
+			RETURN 1; -- Tên kho tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK2.QLVT.dbo.Kho AS KHO WHERE KHO.TENKHO = @Code) -- qua sever 3 tra cứu
+			RETURN 1; -- Tên Kho tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.Kho AS KHOG WHERE KHOG.TENKHO = @Code) -- trường hợp sever 3 đóng, về site chủ
+			RETURN 1; -- Tên Kho tồn tại.
+	END
+
+	-- Đặt hàng
+	IF(@Type = 'MasoDDH')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.DatHang WHERE dbo.DatHang.MasoDDH = @Code)
+			RETURN 1; -- Mã DDH tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK1.QLVT.dbo.DatHang AS DH WHERE DH.MasoDDH = @Code)-- qua phân mảnh còn lại tra cứu
+			RETURN 1; -- Mã DDH tồn tại .
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.DatHang AS DHG WHERE DHG.MasoDDH = @Code)-- trường hợp phân mảnh kia đóng, về site chủ
+			RETURN 1; -- Mã DDH tồn tại .
+	END
+
+	-- Phiếu Xuất
+	IF(@Type = 'MAPX')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.PhieuXuat WHERE dbo.PhieuXuat.MAPX = @Code)
+			RETURN 1; -- Mã PX tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK1.QLVT.dbo.PhieuXuat AS PX WHERE PX.MAPX = @Code)
+			RETURN 1; -- Mã PX tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.PhieuXuat AS PXG WHERE PXG.MAPX = @Code)
+			RETURN 1; -- Mã PX tồn tại.
+	END
+
+	-- Phiếu Nhập
+	IF(@Type = 'MAPN')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.PhieuNhap WHERE dbo.PhieuNhap.MAPN = @Code)
+			RETURN 1; -- Mã PN tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK1.QLVT.dbo.PhieuNhap AS PN WHERE PN.MAPN = @Code)
+			RETURN 1; -- Mã PN tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.PhieuNhap AS PN WHERE PN.MAPN = @Code)
+			RETURN 1; -- Mã PN tồn tại.
+	END
+
+	-- Vật tư là nhân bản, chỉ cần check ở site hiện tại.
+	IF(@Type = 'MAVT')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.Vattu WHERE MAVT = @Code)
+		RETURN 1;
+	END
+
+	IF(@Type = 'TENVT') -- tên vật tư là unique nên cần kiểm tra
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.Vattu WHERE TENVT = @Code)
+		RETURN 1;
+	END
+
+	RETURN 0 -- Không bị trùng
+END
+
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_CHECKID_CT]    Script Date: 12/08/2021 5:21:04 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[SP_CHECKID_CT] @Code NVARCHAR(15),@Code1 NVARCHAR(15), @Type NVARCHAR(15)
+AS
+BEGIN
+	-- PN
+	IF(@Type = 'PN')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.PhieuNhap WHERE dbo.PhieuNhap.MasoDDH = @Code1)
+			RETURN 1; -- Mã CTDDH tồn tại.
+	END
+	-- CTDDH
+	IF(@Type = 'CTDDH')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.CTDDH WHERE dbo.CTDDH.MasoDDH = @Code AND dbo.CTDDH.MAVT = @Code1)
+			RETURN 1; -- Mã CTDDH tồn tại.
+	END
+	--CTPX
+	IF(@Type = 'CTPN')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.CTPN WHERE dbo.CTPN.MAPN = @Code AND dbo.CTPN.MAVT = @Code1)
+			RETURN 1; -- Mã CTPN tồn tại.
+	END
+
+	-- CTPX
+	IF(@Type = 'CTPX')
+	BEGIN
+		IF EXISTS(SELECT * FROM dbo.CTPX WHERE dbo.CTPX.MAPX = @Code AND dbo.CTPX.MAVT = @Code1)
+			RETURN 1; -- Mã CTPX tồn tại.
+	END
+
+	RETURN 0 -- Không bị trùng
+END
+
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_ChiTietSLTGHangNhapXuat]    Script Date: 12/08/2021 5:21:21 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_ChiTietSLTGHangNhapXuat]
+@MODE CHAR,--Congty hay chinhanh, user
+@LOAI CHAR,
+@BEGIN VARCHAR(10),
+@END VARCHAR(10)  
+AS
+BEGIN
+  IF @MODE = 'C' --chinhanh, user
+    IF @LOAI = 'N'
+    SELECT SUBSTRING(CONVERT(VARCHAR(8), PN.NGAY, 3), 4, 5) AS [THOIGIAN], VT.TENVT, SUM(CT.SOLUONG) AS 'SOLUONG', SUM(CT.SOLUONG * CT.DONGIA) AS 'TRIGIA'
+    FROM 
+    (
+      SELECT MAPN, NGAY
+      FROM dbo.PhieuNhap
+      WHERE NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+    ) PN
+    INNER JOIN dbo.CTPN CT ON CT.MAPN = PN.MAPN
+    INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+    GROUP BY SUBSTRING(CONVERT(VARCHAR(8), PN.NGAY, 3), 4, 5), VT.TENVT
+    ELSE
+    IF @LOAI = 'X'
+      SELECT SUBSTRING(CONVERT(VARCHAR(8), PX.NGAY, 3), 4, 5) AS [THOIGIAN], VT.TENVT, SUM(CT.SOLUONG) AS 'SOLUONG', SUM(CT.SOLUONG * CT.DONGIA) AS 'TRIGIA'
+      FROM 
+      (
+      SELECT MAPX, NGAY
+      FROM dbo.PhieuXuat
+      WHERE NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+      ) PX
+      INNER JOIN dbo.CTPX CT ON CT.MAPX = PX.MAPX
+      INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+      GROUP BY SUBSTRING(CONVERT(VARCHAR(8), PX.NGAY, 3), 4, 5), VT.TENVT
+  IF @MODE = 'F' -- congty
+    IF @LOAI = 'N'
+    SELECT SUBSTRING(CONVERT(VARCHAR(8), PN.NGAY, 3), 4, 5) AS [THOIGIAN], VT.TENVT, SUM(CT.SOLUONG) AS 'SOLUONG', SUM(CT.SOLUONG * CT.DONGIA) AS 'TRIGIA'
+    FROM 
+    (
+      SELECT MAPN, NGAY
+      FROM LINK0.QLVT.dbo.PhieuNhap
+      WHERE NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+    ) PN
+    INNER JOIN LINK0.QLVT.dbo.CTPN CT ON CT.MAPN = PN.MAPN
+    INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+    GROUP BY SUBSTRING(CONVERT(VARCHAR(8), PN.NGAY, 3), 4, 5), VT.TENVT
+    ELSE
+    IF @LOAI = 'X'
+      SELECT SUBSTRING(CONVERT(VARCHAR(8), PX.NGAY, 3), 4, 5) AS [THOIGIAN], VT.TENVT, SUM(CT.SOLUONG) AS 'SOLUONG', SUM(CT.SOLUONG * CT.DONGIA) AS 'TRIGIA'
+      FROM 
+      (
+      SELECT MAPX, NGAY
+      FROM LINK0.QLVT.dbo.PhieuXuat
+      WHERE NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+      ) PX
+      INNER JOIN LINK0.QLVT.dbo.CTPX CT ON CT.MAPX = PX.MAPX
+      INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+      GROUP BY SUBSTRING(CONVERT(VARCHAR(8), PX.NGAY, 3), 4, 5), VT.TENVT
+END
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_DS_MaVT_theo_CTDDH]    Script Date: 12/08/2021 5:22:14 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROC [dbo].[SP_DS_MaVT_theo_CTDDH] @MaPN NVARCHAR(15)
+AS
+BEGIN
+	DECLARE @MaSoDDH NVARCHAR(15)
+	SET @MaSoDDH = (SELECT pn.MasoDDH FROM dbo.PhieuNhap pn WHERE pn.MAPN = @MaPN)
+	SELECT MAVT FROM dbo.CTDDH WHERE MasoDDH =@MaSoDDH
+END
+
+
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_DSDDHChuaCoPhieuNhap]    Script Date: 12/08/2021 5:22:48 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_DSDDHChuaCoPhieuNhap]
+AS
+BEGIN
+	SELECT rs1.MasoDDH AS 'Mã số DDH', rs1.Ngay AS 'Ngày đặt', rs1.NhaCC AS 'Nhà cung cấp', rs1.NVDATHANG AS 'NV đặt hàng', vt.TENVT AS 'Tên vật tư', ctddh.SOLUONG AS 'Số lượng', ctddh.DONGIA AS 'Đơn giá'
+	FROM
+	(
+		SELECT dh.MasoDDH, dh.Ngay, dh.NhaCC, nv.HO + ' ' + nv.TEN AS 'NVDATHANG' --, ctddh.MAVT, ctddh.SOLUONG, ctddh.DONGIA
+		FROM 
+		(
+			SELECT MasoDDH, NGAY, NhaCC, MANV
+			FROM dbo.DatHang
+			-- lọc ra mã số  ddh chưa có trong phiếu nhập
+			WHERE MasoDDH NOT IN (SELECT MasoDDH FROM dbo.PhieuNhap)
+		) dh
+		LEFT JOIN dbo.NhanVien nv ON nv.MANV = dh.MANV
+	) rs1
+	LEFT JOIN dbo.CTDDH ctddh ON ctddh.MasoDDH = rs1.MasoDDH
+	INNER JOIN dbo.Vattu vt ON vt.MAVT = ctddh.MAVT
+END
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_HoatDongNV]    Script Date: 12/08/2021 5:23:15 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_HoatDongNV]
+@MANV INT,
+@LOAI CHAR,
+@BEGIN CHAR(10),
+@END CHAR(10)
+AS
+BEGIN
+  IF @LOAI = 'N'
+    SELECT FORMAT(PN.NGAY, 'MMMM yyyy') AS 'Ngày', CONVERT(VARCHAR(10), PN.NGAY, 103) AS 'Ngày Chi tiết',
+		PN.MAPN AS 'Mã Phiếu', PN.HOTENKH AS 'Họ và Tên', VT.TENVT AS 'Tên Vật Tư', 
+		KHO.TENKHO AS 'Tên Kho',CT.SOLUONG AS 'Số Lượng',
+		DONGIA AS 'Đơn Giá', CT.SOLUONG * CT.DONGIA AS 'Trị Giá'
+    FROM 
+    (
+		SELECT MAPN, NGAY, MAKHO, HOTENKH = '' 
+		FROM PhieuNhap
+		WHERE MANV = @MANV AND NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+    ) PN
+    INNER JOIN dbo.CTPN CT ON CT.MAPN = PN.MAPN
+    INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+	INNER JOIN DBO.KHO KHO ON KHO.MAKHO = PN.MAKHO
+  ELSE
+    IF @LOAI = 'X'
+      SELECT FORMAT(PX.NGAY, 'MMMM yyyy') AS 'Ngày', CONVERT(VARCHAR(10), PX.NGAY, 103) AS 'Ngày Chi tiết',
+		PX.MAPX AS 'Mã Phiếu', PX.HOTENKH AS 'Họ và Tên', VT.TENVT AS 'Tên Vật Tư', 
+		KHO.TENKHO AS 'Tên Kho',CT.SOLUONG AS 'Số Lượng',
+		DONGIA AS 'Đơn Giá', CT.SOLUONG * CT.DONGIA AS 'Trị Giá'
+    FROM 
+    (
+		SELECT MAPX, NGAY, MAKHO, HOTENKH
+		FROM PhieuXuat
+		WHERE MANV = @MANV AND NGAY BETWEEN CONVERT(SMALLDATETIME, @BEGIN, 103) AND CONVERT(SMALLDATETIME, @END, 103)
+    ) PX
+    INNER JOIN dbo.CTPX CT ON CT.MAPX = PX.MAPX
+    INNER JOIN dbo.Vattu VT ON VT.MAVT = CT.MAVT
+	INNER JOIN DBO.KHO KHO ON KHO.MAKHO = PX.MAKHO
+END
+
+
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_InDanhMucVatTu]    Script Date: 12/08/2021 5:23:40 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_InDanhMucVatTu]
+AS
+BEGIN
+	SELECT MAVT, TENVT, DVT, SOLUONGTON  FROM dbo.Vattu
+	ORDER BY TENVT
+END
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_InDSNhanVien]    Script Date: 12/08/2021 5:24:00 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_InDSNhanVien]
+AS
+BEGIN
+	SELECT MANV, (HO+' '+TEN) AS HOTEN, DIACHI, NGAYSINH, LUONG, MACN,TrangThaiXoa  FROM dbo.NhanVien
+	ORDER BY TEN, HO
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[SP_Lay_Thong_Tin_NV_Tu_Login]    Script Date: 12/08/2021 5:24:16 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_Lay_Thong_Tin_NV_Tu_Login]
+@TENLOGIN NVARCHAR(100)
+AS
+DECLARE @UID INT
+DECLARE @MANV NVARCHAR(100)
+SELECT @UID=uid, @MANV=NAME FROM sys.sysusers
+	WHERE sid = SUSER_SID(@TENLOGIN)
+
+SELECT MANV=@MANV,
+	   HOTEN=(SELECT HO+' '+TEN FROM dbo.NHANVIEN WHERE MANV=@MANV),
+	   TENNHOM=NAME
+	FROM sys.sysusers
+	WHERE UID = (SELECT groupuid FROM sys.sysmembers WHERE memberuid=@UID)
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_TimMaNV]    Script Date: 12/08/2021 5:24:35 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_TimMaNV] @Code INT
+AS
+BEGIN
+		IF EXISTS(SELECT * FROM dbo.NhanVien WHERE dbo.NhanVien.MANV = @Code)
+			RETURN 1; -- Mã NV đã tồn tại. 
+		ELSE IF EXISTS(SELECT * FROM LINK2.QLVT.dbo.NhanVien AS NV WHERE NV.MANV = @Code) -- qua sever 3 tra cứu
+			RETURN 1; -- Mã NV đã tồn tại.
+		ELSE IF EXISTS(SELECT * FROM LINK0.QLVT.dbo.NhanVien AS NVG WHERE NVG.MANV = @Code) -- trường hợp sever 3 đóng, về site chủ
+			RETURN 1; -- Mã NV đã tồn tại.
+		ELSE 
+			RETURN 0; -- Mã NV không tồn tại. up
+END				
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[SP_TongHopNhapXuat]    Script Date: 13/08/2021 12:29:57 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_TongHopNhapXuat]
+	@NGAYBD DATE, @NGAYKT DATE
+AS
+BEGIN
+	SET NOCOUNT ON; -- sp thực thi sẽ 
+		IF 1=0 BEGIN
+			SET FMTONLY OFF -- một thủ tục dùng cho bảng tạm thời?
+		END
+		SELECT	PN.NGAY,
+				NHAP = SUM(CTPN.SOLUONG * CTPN.DONGIA), 
+				TYLENHAP = (SUM(CTPN.SOLUONG * CTPN.DONGIA) / (SELECT SUM(SOLUONG*DONGIA) FROM CTPN INNER JOIN PHIEUNHAP ON CTPN.MAPN=PHIEUNHAP.MAPN WHERE NGAY BETWEEN @NGAYBD AND @NGAYKT)) INTO #PhieuNhapTemp
+		FROM PHIEUNHAP AS PN
+			INNER JOIN (SELECT * FROM CTPN) AS CTPN 
+			ON PN.MAPN = CTPN.MAPN
+		WHERE NGAY BETWEEN @NGAYBD AND @NGAYKT
+		GROUP BY PN.NGAY
+
+		SELECT	PX.NGAY,
+				XUAT = SUM(CTPX.SOLUONG * CTPX.DONGIA),
+				TYLEXUAT = (SUM(CTPX.SOLUONG * CTPX.DONGIA) / (SELECT SUM(SOLUONG*DONGIA) FROM CTPX INNER JOIN PHIEUXUAT ON CTPX.MAPX=PHIEUXUAT.MAPX WHERE NGAY BETWEEN @NGAYBD AND @NGAYKT))  INTO #PhieuXuatTemp
+		FROM PHIEUXUAT AS PX
+			INNER JOIN (SELECT * FROM CTPX) AS CTPX 
+			ON PX.MAPX = CTPX.MAPX
+		WHERE NGAY BETWEEN @NGAYBD AND @NGAYKT
+		GROUP BY PX.NGAY				
+
+		SELECT 
+		ISNULL(PN.NGAY, PX.NGAY) AS NGAY, --ISNULL(bieuthuc, giatri_thaythe)
+		ISNULL(PN.NHAP, 0) AS NHAP,
+		ISNULL(PN.TYLENHAP, 0) AS TYLENHAP,
+		ISNULL(PX.XUAT, 0) AS XUAT,
+		ISNULL(PX.TYLEXUAT, 0) AS TYLEXUAT
+		FROM #PhieuNhapTemp AS PN
+		FULL JOIN #PhieuXuatTemp AS PX --full join là (left join + right join)
+		ON PN.NGAY = PX.NGAY
+		ORDER BY NGAY
+END
+
+--EXEC SP_TongHopNhapXuat '2021-08-01', '2021-09-30'
+
+GO

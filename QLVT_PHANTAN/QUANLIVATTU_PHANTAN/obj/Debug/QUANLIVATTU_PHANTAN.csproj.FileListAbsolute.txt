@@ -1,0 +1,527 @@
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.pdb
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v16.1.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v16.1.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v16.1.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v16.1.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v16.1.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v16.1.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDangNhap.resources
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmMain.resources
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe.licenses
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe
+c:\users\asus\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe.config
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmNhanVien.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmVatTu.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmKho.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuNhap.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPN.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPX.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDatHang.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuXuat.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmTaoTaiKhoan.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe.config
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.pdb
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTDDH.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPN.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPX.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDangNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDatHang.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmKho.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmMain.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmTaoTaiKhoan.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe.licenses
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.pdb
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.testfrm.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_InDSNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_InDSNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_InDanhMucVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_InDanhMucVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_ChiTietSLTGHangNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_ChiTietSLTGHangNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_DSDDHChuaCoPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_DSDDHChuaCoPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_HoatDongNV.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_HoatDongNV.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_TongHopNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\QUANLIVATTU_PHANTAN\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_TongHopNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe.config
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.exe
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\QUANLIVATTU_PHANTAN.pdb
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTDDH.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPN.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmCTPX.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDangNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmDatHang.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmKho.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmMain.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmPhieuXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmTaoTaiKhoan.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.frmVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_ChiTietSLTGHangNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_DSDDHChuaCoPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_HoatDongNV.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_InDanhMucVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_InDSNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Frpt_TongHopNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.testfrm.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_DSDDHChuaCoPhieuNhap.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_ChiTietSLTGHangNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_HoatDongNV.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_InDanhMucVatTu.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_InDSNhanVien.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.Xrpt_TongHopNhapXuat.resources
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe.licenses
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.exe
+C:\Users\ASUS\Desktop\CSDLPT621\Phong\QUANLIVATTU_PHANTAN\obj\Debug\QUANLIVATTU_PHANTAN.pdb
